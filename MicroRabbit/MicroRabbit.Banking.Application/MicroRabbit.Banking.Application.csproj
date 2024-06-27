@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Microrabbit.Banking.Domain\Microrabbit.Banking.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

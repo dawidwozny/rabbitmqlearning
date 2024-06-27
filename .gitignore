@@ -1,3 +1,5 @@
 /MicroRabbit/.vs
 /MicroRabbit/MicroRabbit.Domain.Core/obj
 /MicroRabbit/MicroRabbit.Domain.Core/bin
+bin
+obj
