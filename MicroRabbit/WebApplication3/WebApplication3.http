@@ -1,0 +1,6 @@
+@WebApplication3_HostAddress = http://localhost:5029
+
+GET {{WebApplication3_HostAddress}}/banking/
+Accept: application/json
+
+###

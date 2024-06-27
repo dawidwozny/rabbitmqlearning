@@ -39,6 +39,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microrabbit.Banking.Domain"
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{87CE3EBE-0A92-4B8C-B4EB-0D8684D998A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication3", "WebApplication3\WebApplication3.csproj", "{C05160BC-978F-4AE1-BADB-04FC98E0BE24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{87CE3EBE-0A92-4B8C-B4EB-0D8684D998A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87CE3EBE-0A92-4B8C-B4EB-0D8684D998A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87CE3EBE-0A92-4B8C-B4EB-0D8684D998A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C05160BC-978F-4AE1-BADB-04FC98E0BE24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C05160BC-978F-4AE1-BADB-04FC98E0BE24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C05160BC-978F-4AE1-BADB-04FC98E0BE24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C05160BC-978F-4AE1-BADB-04FC98E0BE24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -94,6 +100,7 @@ Global
 		{E095EC81-17D6-48DA-B58C-36088EDDF3F5} = {3B31CC0A-61FD-47CD-A865-27EECF77E4FB}
 		{72EBEE6A-777D-44A4-B0B6-0E321439B240} = {FB5CDE8D-1427-4A2B-AD94-9087F508A188}
 		{59D08D9C-9E40-4AC1-B0FD-939D221FDEC1} = {AB91D008-FEDC-483A-BF83-C254FCAB89DD}
+		{C05160BC-978F-4AE1-BADB-04FC98E0BE24} = {9A8DAFA0-9D11-4756-82FF-1E3599F6463E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {793522EE-534D-4C63-ADCB-BA33C947F82D}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MicroRabbit.Infra.IoC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73491fd30cd1ea6311ff7a786b901a4788a3cc13")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be498cfdf4de6ae29ba8d812d6b98fafbb7f7423")]
 [assembly: System.Reflection.AssemblyProductAttribute("MicroRabbit.Infra.IoC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MicroRabbit.Infra.IoC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
