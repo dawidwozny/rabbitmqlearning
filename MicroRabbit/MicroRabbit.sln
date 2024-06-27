@@ -15,7 +15,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentatio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroRabbit.Domain.Core", "MicroRabbit.Domain.Core\MicroRabbit.Domain.Core.csproj", "{C7D174A1-7630-43D2-B0C1-250E296A18D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.Infra.Bus", "MicroRabbit.Infra.Bus\MicroRabbit.Infra.Bus.csproj", "{E40A9E18-35E5-4144-8399-5A9568D9A684}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroRabbit.Infra.Bus", "MicroRabbit.Infra.Bus\MicroRabbit.Infra.Bus.csproj", "{E40A9E18-35E5-4144-8399-5A9568D9A684}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.Infra.IoC", "MicroRabbit.Infra.IoC\MicroRabbit.Infra.IoC.csproj", "{0220EA25-8181-4532-9114-4B922A1DA18E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,10 @@ Global
 		{E40A9E18-35E5-4144-8399-5A9568D9A684}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E40A9E18-35E5-4144-8399-5A9568D9A684}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E40A9E18-35E5-4144-8399-5A9568D9A684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0220EA25-8181-4532-9114-4B922A1DA18E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0220EA25-8181-4532-9114-4B922A1DA18E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0220EA25-8181-4532-9114-4B922A1DA18E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0220EA25-8181-4532-9114-4B922A1DA18E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -38,6 +44,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{C7D174A1-7630-43D2-B0C1-250E296A18D2} = {9539923A-50F0-4F96-B1D5-E97C8DE713A4}
 		{E40A9E18-35E5-4144-8399-5A9568D9A684} = {E7A56735-0884-408F-A04B-FE6D6843ADAF}
+		{0220EA25-8181-4532-9114-4B922A1DA18E} = {D78FB584-A595-408E-95A2-373A4C3BF291}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {793522EE-534D-4C63-ADCB-BA33C947F82D}
